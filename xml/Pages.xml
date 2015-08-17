@@ -1,0 +1,35 @@
+<content width="368" height="450" bgcolor="cccccc" loadercolor="ffffff" panelcolor="5d5d61" buttoncolor="5d5d61" textcolor="ffffff">
+	<page src="pages/01.jpg"/>
+	<page src="pages/page_02.swf"/>
+	<page src="pages/page_03.swf"/>
+	<page src="pages/page_04.swf"/>
+	<page src="pages/page_05.swf"/>
+	
+	<page src="pages/page_cucheerleader_01.swf"/>
+	<page src="pages/page_cucheerleader_02.jpg"/>
+	<page src="pages/page_cucheerleader64_01.jpg"/>
+	<page src="pages/page_cucheerleader64_02.swf"/>
+	<page src="pages/page_cudrummajor_01.jpg"/>
+	<page src="pages/page_cudrummajor_02.swf"/>
+	<page src="pages/page_custand_01.swf"/>
+	<page src="pages/page_custand_02.jpg"/>
+	
+	<page src="pages/page_cucoronet_01.jpg"/>
+	<page src="pages/page_cucoronet_02.swf"/>
+	<page src="pages/page_parade_01.jpg"/>
+	<page src="pages/page_parade_02.swf"/>
+	<page src="pages/page_tucheerleader_01.jpg"/>
+	<page src="pages/page_tucheerleader_02.swf"/>
+	
+	<page src="pages/page_event_01.jpg"/>
+	<page src="pages/page_event_02.swf"/>
+	<page src="pages/page_tustand_01.jpg"/>
+	<page src="pages/page_tustand_02.swf"/>
+	
+	<page src="pages/page_player_01.swf"/>
+	<page src="pages/page_player_02.jpg"/>
+	
+	<page src="pages/page_license.swf"/>
+	<page src="pages/page_list.swf"/>
+	<page src="pages/page_last.swf"/>
+</content>
